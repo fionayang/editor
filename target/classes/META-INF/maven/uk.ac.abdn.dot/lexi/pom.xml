@@ -1,0 +1,8 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>uk.ac.abdn.dot</groupId>
+  <artifactId>lexi</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <name>lexi text editor</name>
+  <description>A texi editor called lexi introduced by Pattern Design( The Gang of Four)</description>
+</project>
